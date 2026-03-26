@@ -1,7 +1,7 @@
 {
   "Group": "Siren",
   "Name": "Siren's Commands",
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Description": "More useful commands to make your life more simple, mainly used to make my life more Simple - Siren",
   "Authors": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "Website": "https://mermaids.dev/sirens-commands/",
-  "ServerVersion": "2026.02.19-1a311a592",
+  "ServerVersion": "2026.03.26-89796e57b",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},
