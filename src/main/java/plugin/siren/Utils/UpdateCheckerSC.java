@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 public class UpdateCheckerSC {
     public static String checkForUpdate(){
         try{
-            URL url = new URL("https://api.mermaids.dev/versions/chinese-festivals/release/");
+            URL url = new URL("https://api.mermaids.dev/versions/sirens-commands/release/");
 
             URLConnection connection = url.openConnection();
             InputStream inputStream = connection.getInputStream();
