@@ -3,5 +3,5 @@
   "Commands": [
     "tp top"
   ],
-  "Description": "Teleports player to highest surface (runs tp top but shorter bindings)"
+  "Description": "server.macroCommands.sirenscommands.top."
 }

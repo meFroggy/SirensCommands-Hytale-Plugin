@@ -1,3 +1,22 @@
+# === commands ==
+
+commands.sirenscommands.list = View a list of all the commands added to Siren's commands.
+commands.sirenscommands.players = See a list of all players connected to the server.
+
+
+# === macroCommands ==
+
+macroCommands.sirenscommands.back = Teleports player to there previous back (runs tp back but shorter bindings).
+macroCommands.sirenscommands.day = Sets the time of day in the world to 7.
+macroCommands.sirenscommands.gma = Set a player to Adventure mode.
+macroCommands.sirenscommands.gma.param0 = The username of a player to set into Adventure.
+macroCommands.sirenscommands.gmc = Set a player to Creative mode.
+macroCommands.sirenscommands.gmc.param0 = The username of a player to set into Creative.
+macroCommands.sirenscommands.night = Sets the time of day (aka night) in the world to 21.
+macroCommands.sirenscommands.die = Kills the player (aliases to /kill).
+macroCommands.sirenscommands.top = Teleports player to highest surface (runs tp top but shorter bindings).
+
+
 # === updateChecker ===
 
 updateChecker.sirenscommands.release.message = The Siren's Commands Mod version is outdated, Siren's Commands has released v{version}.

@@ -2,13 +2,13 @@
   "Parameters": [
     {
       "Name": "player",
-      "Description": "The username to set into Creative",
+      "Description": "server.macroCommands.sirenscommands.gmc.param0",
       "Requirement": "Optional",
       "ArgType": "String"
     }
   ],
   "Name": "gmc",
-  "Description": "Set a player to Creative mode",
+  "Description": "server.macroCommands.sirenscommands.gmc",
   "Commands": [
     "gamemode creative {player}"
   ]

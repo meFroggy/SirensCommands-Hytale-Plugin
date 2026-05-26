@@ -1,6 +1,6 @@
 {
   "Name": "sucide",
-  "Description": "Kills the player (aliases to /kill)",
+  "Description": "server.macroCommands.sirenscommands.die",
   "Aliases": [
     "die"
   ],
